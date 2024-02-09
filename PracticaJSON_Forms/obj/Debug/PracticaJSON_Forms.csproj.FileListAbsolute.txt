@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\PracticaJSON_Forms\PracticaJSON_Forms\bin\Debug\PracticaJSON_Forms.exe.config
+C:\Users\Admin\source\repos\PracticaJSON_Forms\PracticaJSON_Forms\bin\Debug\PracticaJSON_Forms.exe
+C:\Users\Admin\source\repos\PracticaJSON_Forms\PracticaJSON_Forms\bin\Debug\PracticaJSON_Forms.pdb
+C:\Users\Admin\source\repos\PracticaJSON_Forms\PracticaJSON_Forms\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\PracticaJSON_Forms\PracticaJSON_Forms\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\source\repos\PracticaJSON_Forms\PracticaJSON_Forms\obj\Debug\PracticaJSON_Forms.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\PracticaJSON_Forms\PracticaJSON_Forms\obj\Debug\PracticaJSON_Forms.Form1.resources
+C:\Users\Admin\source\repos\PracticaJSON_Forms\PracticaJSON_Forms\obj\Debug\PracticaJSON_Forms.Properties.Resources.resources
+C:\Users\Admin\source\repos\PracticaJSON_Forms\PracticaJSON_Forms\obj\Debug\PracticaJSON_Forms.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\PracticaJSON_Forms\PracticaJSON_Forms\obj\Debug\PracticaJSON_Forms.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\PracticaJSON_Forms\PracticaJSON_Forms\obj\Debug\PracticaJSON_Forms.csproj.CopyComplete
+C:\Users\Admin\source\repos\PracticaJSON_Forms\PracticaJSON_Forms\obj\Debug\PracticaJSON_Forms.exe
+C:\Users\Admin\source\repos\PracticaJSON_Forms\PracticaJSON_Forms\obj\Debug\PracticaJSON_Forms.pdb

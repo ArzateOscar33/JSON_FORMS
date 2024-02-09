@@ -1,0 +1,27 @@
+[
+  {
+    "DNI": 75442,
+    "Nombre": "GGG",
+    "mascota": {
+      "Nombre": "TERS",
+      "tipo": 1
+    }
+  },
+  {
+    "DNI": 42003,
+    "Nombre": "POLIFASIO",
+    "mascota": {
+      "Nombre": "RIASKOS",
+      "tipo": 2
+    }
+  },
+  {
+    "DNI": 21444,
+    "Nombre": "Jose",
+    "mascota": {
+      "Nombre": "Sirius",
+      "tipo": 2
+    }
+  }
+
+]
